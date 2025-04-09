@@ -43,7 +43,6 @@ jobs:
       - name: Run tests
         run: go test ./...
 
-    # TODO 02 - Make sure that this job is run before `compile`
 
 
 
